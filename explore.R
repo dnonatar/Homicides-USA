@@ -54,3 +54,12 @@ relationship_n = as.integer(factor(weapon_rela$relationship))
 weapon_rela = cbind(weapon_rela,weapon_n,relationship_n)
 
 write.csv(weapon_rela,"weapon_relationship.csv",row.names = FALSE)
+
+
+### get Negligence vs Murder for each weapon
+hom_weapon = data.frame(table(shr$Weapon,shr$Homicide))
+hom_weapon = cast(hom_weapon,Var1~Var2)
+colnames(hom_weapon) = c("weapon","negligence","murder")
+hom_weapon["neg %"] = (hom_weapon$negligence)/(hom_weapon$negligence+hom_weapon$murder)*100
+hom_weapon["murder %"] = (hom_weapon$murder)/(hom_weapon$negligence+hom_weapon$murder)*100
+
