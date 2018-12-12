@@ -5,27 +5,27 @@
 
 <h4>Motivation</h4>
 
-<p> I have always had a strong interest in applying my data science skills to solve social related problems. At first, I was not sure which particular dataset I would want to work on, my first step was to go to a couple of useful websites that host public data and go through them using keywords like “ social” or “data for good” to search. After spending a lot of time looking at those websites, I realized crime-related data would be a great fit to both the project’s requirement and my own interest. </p>
+<p> I have always had a strong interest in applying my data science skills to solve social related problems. At first, since I was not sure which particular dataset I would want to work on, my first step was to go to a couple of useful websites that host public data and go through them using keywords like “ social” or “data for good” to search. After spending a lot of time looking at those websites, I realized crime-related data would be a great fit to both the project’s requirement and my own interest. </p>
 
 <p>In fact, the dataset that I chose, and even used for the proposal is not the one I ended up using. At first I chose the mass shooting dataset from kaggle that claims to list all the significant mass shooting starting from the 1980s. The data consisted of around 300 rows and 15 columns. This means the dataset only has around 300 mass shooting events since 1980s. It was not until I read the news about the recent mass shooting in California in early November that I figured out I picked a wrong dataset. The news mentioned that this California mass shooting would be around the 300th time that a mass shooting happens this year alone, so there was no way there could only be 300 incidents since the 1980s as the dataset claimed. It was foolish of me to not double check the validity of my data.</p>
 
 <p>After that I also had to spend a lot of time searching for a new data. I still went for the same theme, though it was  not restricted to mass shooting in particular. Now that I realized some datasets out there are not valid, it became even harder to find a new data. I had spent probably too much time finding for the good one because the data had to make sense and it also had to meet the requirement of having at least 15 columns. In the end, I settled with the homicide dataset from a website called Murder Accountability Project, which aims to tracking for American homicides. The dataset lists all the homicides starting from 1976 to 2017. Originally, it consists of 769,753 rows and 30 columns. As opposed to having a bad dataset earlier, I now faced a new problem. That is the dataset is probably too good. I really like that it has a very thorough information but with its current state, it was hard to lay out a solid plan for a visualization. Also, the datafile was a bit too large. Thus, I decided to subset the data by using only the homicides from the year 2017 only (2018 data is not yet available). I also subset from 30 to 16 potentially useful columns, although some of them are not that useful in the end. </p>
 
-<p>The data columns(attributes) are as follow:
+<p>The data columns(attributes) are as follows:
 County, State, Year, Month, Homicide (murder vs. negligence), situation, victim age, victim sex, vctim race, victim ethnicity, offender age, offender offender sex, offender race, offender ethnicity, weapon, relationship, and circumstance.
 
 Also, the data now has 17441 rows (observations).</p>
 
 <h4>Design Process</h4>
 
-<p>Honestly, the design process was way tougher than I thought and I ended up spending more time here than I expected. Since there are many attributes to picks, I was not sure how to organize my visualization. I felt like I should have one plot that  stood as a main idea and then spanned out from there. However, I discovered that if I only had one plot as a main visualization, the interactive features might not actually be as useful as it sounded. For example, if I start with state. Then if I look at the number of deaths for each month for each state for each circumstance, then there would be too much subset and the number might be too small in the end. So I think it is better to have a few main visualizations that work in parallel, so that more useful information can be extracted.</p>
+<p>Honestly, the design process was way tougher than I thought and I ended up spending more time here than I expected. Since there are many attributes to picks, I was not sure how to organize my visualization. I felt like I should have one plot that  stood as a main idea and then spanned out from there. However, I discovered that if I only had one plot as a main visualization, the interactive features might not actually be as useful as it sounded. For example, if I start with a US map. Then if I look at the number of deaths for each month for each state for each circumstance, there would be too much subset and the number might be too small in the end. So I think it is better to have a few main visualizations that work in parallel, so that more useful information can be extracted since users can have more than one option to decide from which angle to start diving into.</p>
 
-<p>To convert the initial data to a set of visualizations, many preprocessing and exploratory steps are required. These steps are done in R and Excel. Since different types of visualizations in d3 require a different type of input data, I had to use R to convert and organize data into different formats. And sometimes simply using Excel to manually work work data is easier. </p>
+<p>To convert the initial data to a set of visualizations, many preprocessing and exploratory steps are required. These steps are done in R and Excel. Since different types of visualizations in d3 require a different type of input data, I had to use R to convert and organize data into different formats. And sometimes simply using Excel to manually work work data is easier. One example of using R to process data is when creating a heatmap, I need to have a data in the format of a frequency table. I could easy run through the original data using javascript or I could do it outside using R, which was easier and took less time. </p>
 
-<p>Throughout the project,  I made a lot of sketches, although only a few of them are actually used. Examples are as followed. </p>
+<p>Throughout the project,  I made a lot of sketches, although only a few of them are actually used. Examples are as follows. </p>
 
-<img src="images/FullSizeRender.jpg" alt="first page" width="400" height="500">
-<img src="images/IMG_4175.JPG" alt="second page" width="400" height="500">
+<img src="images/FullSizeRender.jpg" alt="first page" width="600" height="500">
+<img src="images/IMG_4175.JPG" alt="second page" width="600" height="500">
 <p>&nbsp;</p>
 
 <h4>Design Justification</h4>
@@ -52,11 +52,17 @@ Also, the data now has 17441 rows (observations).</p>
 
 <p>Also, I found out that there is quite a large number for ‘Child killed by babysitter’(32 in total). This is a bit surprising to me because I did not even realize this situation happened before doing the project. Below is the screenshot from my visualization.</p>
 
-<img src="images/killedByBabysit.png" alt="first page" width="400" height="500">
+<img src="images/killedByBabysit.png" alt="first page" width="600" height="500">
 
-<p>Another interesting finding is that explosives, drowning, and drugs are the top means for manslaughter by negligence. </p>
+<p>Another interesting finding is that explosives, drowning, and drugs are the top means for manslaughter by negligence. Here is the screenshot. Note that the whole graph cannot be fitted in one screenshot so I just took the key part. </p>
+
+<img src="images/negligence.png" alt="first page" width="700" height="500">
 
 <h4>Reflection</h4>
 
 
 <p>I have learned a lot during this project. I guess the most important lesson is that it is even more difficult to think about what sort of design I should come up with than how to create a visualization itself. Thus, it is important to make sure I have enough time to brainstorm ideas. I did not realize it would take so much time so I don’t think I left enough time for myself. Also, as mentioned earlier, I made mistake during the data finding processing and it really ruined the process as a whole because a lot of time had to be spent looking for the new data. I am not sure if it is a good or bad thing but I was probably a bit too piky about the data choice that I ended up spending too much time looking for it. In the end , I did find the very good one but I should have had more time to build the visualization. </p>
+
+<p>
+The future worl for this is probably to try incorporate more data. I mentioned earlier that that dataset was quite large so I decided to use only the data from 2017. One direction to go is to create break the data into multiples, each representing one year only. I attempted to do this but did not have enough time to blend it smoothly with the current code that I have. 
+</p>
