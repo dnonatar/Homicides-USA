@@ -1,18 +1,18 @@
-weapon,negligence,murder,neg_per,murder_per
-Asphyxiation - includes death by gas,4,105,3.67,96.33
+"weapon","negligence","murder","neg_per","murder_per"
+"Asphyxiation - includes death by gas",4,105,3.67,96.33
 "Blunt object - hammer, club, etc",6,504,1.18,98.82
-Drowning,5,8,38.46,61.54
-Explosives,1,0,100.00,0.00
-Fire,7,108,6.09,93.91
+"Drowning",5,8,38.46,61.54
+"Explosives",1,0,100,0
+"Fire",7,108,6.09,93.91
 "Firearm, type not stated",23,3649,0.63,99.37
-"Handgun - pistol, revolver, etc",97,8000,1.20,98.80
-Knife or cutting instrument,3,1753,0.17,99.83
+"Handgun - pistol, revolver, etc",97,8000,1.2,98.8
+"Knife or cutting instrument",3,1753,0.17,99.83
 "Narcotics or drugs, sleeping pills",25,105,19.23,80.77
-Other gun,2,189,1.05,98.95
-Other or type unknown,65,1076,5.70,94.30
+"Other gun",2,189,1.05,98.95
+"Other or type unknown",65,1076,5.7,94.3
 "Personal weapons, includes beating",16,771,2.03,97.97
-Poison - does not include gas,0,14,0.00,100.00
-Pushed or thrown out window,0,4,0.00,100.00
-Rifle,10,505,1.94,98.06
-Shotgun,8,289,2.69,97.31
-Strangulation - hanging,1,87,1.14,98.86
+"Poison - does not include gas",0,14,0,100
+"Pushed or thrown out window",0,4,0,100
+"Rifle",10,505,1.94,98.06
+"Shotgun",8,289,2.69,97.31
+"Strangulation - hanging",1,87,1.14,98.86

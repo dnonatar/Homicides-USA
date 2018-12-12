@@ -1,52 +1,52 @@
 "state","female","male","unknown"
-"Alabama",0,2,0
-"Alaska",21,54,0
-"Arizona",112,345,1
-"Arkansas",73,178,1
-"California",370,1620,3
-"Colorado",56,177,0
-"Connecticut",20,86,0
-"Delaware",8,53,0
-"District of Columbia",18,107,0
-"Florida",280,950,2
-"Georgia",143,560,3
-"Hawaii",12,30,0
-"Idaho",12,16,0
-"Illinois",118,718,0
-"Indiana",74,314,0
-"Iowa",21,82,1
-"Kansas",32,103,0
-"Kentucky",62,216,1
-"Louisiana",99,510,1
-"Maine",9,26,0
-"Maryland",59,433,0
-"Massachusetts",35,135,0
-"Michigan",115,474,3
-"Minnesota",34,99,0
-"Mississippi",31,126,2
-"Missouri",108,530,0
-"Montana",14,27,0
-"Nebraska",13,33,0
-"Nevada",87,210,4
-"New Hampshire",5,10,0
-"New Jersey",64,281,0
-"New Mexico",30,112,0
-"New York",120,450,1
-"North Carolina",122,455,1
-"North Dakota",14,8,0
-"Ohio",157,528,8
-"Oklahoma",52,214,6
-"Oregon",27,82,1
-"Pennsylvania",146,640,4
-"Rhodes Island",6,14,0
-"South Carolina",86,323,0
-"South Dakota",7,17,0
-"Tennessee",110,446,1
-"Texas",340,1164,4
-"Utah",30,51,0
-"Vermont",8,6,0
-"Virginia",127,336,0
-"Washington",68,170,1
-"West Virginia",19,60,0
-"Wisconsin",46,176,0
-"Wyoming",4,10,0
+"Alabama",122,381,1
+"Alaska",16,31,0
+"Arizona",73,158,0
+"Arkansas",42,126,0
+"California",654,1868,1
+"Colorado",47,129,0
+"Connecticut",43,77,0
+"Delaware",11,21,0
+"District of Columbia",29,173,0
+"Florida",209,668,3
+"Georgia",128,375,0
+"Hawaii",19,42,0
+"Idaho",16,35,0
+"Illinois",250,923,0
+"Indiana",85,234,1
+"Iowa",19,31,0
+"Kansas",48,93,0
+"Kentucky",69,292,0
+"Louisiana",134,460,0
+"Maine",11,18,0
+"Maryland",96,256,0
+"Massachusetts",45,119,0
+"Michigan",221,707,0
+"Minnesota",36,64,0
+"Mississippi",57,162,0
+"Missouri",119,340,0
+"Montana",12,18,0
+"Nebraska",16,35,0
+"Nevada",17,66,0
+"New Hampshire",8,18,0
+"New Jersey",111,320,0
+"New Mexico",21,69,1
+"New York",393,1626,1
+"North Carolina",156,459,0
+"North Dakota",2,1,0
+"Ohio",151,554,0
+"Oklahoma",54,162,0
+"Oregon",31,75,0
+"Pennsylvania",177,509,1
+"Rhodes Island",10,23,0
+"South Carolina",83,290,0
+"South Dakota",6,6,0
+"Tennessee",67,247,0
+"Texas",329,1411,2
+"Utah",9,27,0
+"Vermont",1,1,1
+"Virginia",132,344,0
+"Washington",46,83,0
+"West Virginia",30,89,0
+"Wisconsin",47,92,0
+"Wyoming",3,13,0
