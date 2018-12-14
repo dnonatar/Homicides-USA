@@ -48,7 +48,7 @@ for (year in years){
   all = apply(combined_data[,c(-1,-14,-27)],2,sum)
   combined_data=rbind(t(data.frame(all)),combined_data[,c(-1,-14,-27)])
   
-  write.csv(combined_data,paste("cir_by_month_MF_",year,".csv",sep=""),row.names = FALSE)
+  #write.csv(combined_data,paste("cir_by_month_MF_",year,".csv",sep=""),row.names = FALSE)
 }
 
 #write.csv(cbind(cir_by_month, cir_by_month_M,cir_by_month_F),"cir_by_month_MF.csv",row.names = FALSE)
