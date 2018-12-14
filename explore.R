@@ -86,3 +86,20 @@ hom_weapon["neg_per"] = round((hom_weapon$negligence)/(hom_weapon$negligence+hom
 hom_weapon["murder_per"] = round((hom_weapon$murder)/(hom_weapon$negligence+hom_weapon$murder)*100,2)
 
 #write.csv(hom_weapon,"hom_weapon.csv",row.names = FALSE)
+
+
+### separate data by age
+shr$agecut = cut(VicAge,c(0,20,25,30,40,50,100),labels=c(1:6))
+
+for (i in 1:6){
+shr_i = shr[shr$agecut==i,]
+weapon_rela = data.frame(table(shr_i$Weapon,shr_i$Relationship))
+colnames(weapon_rela) = c("weapon","relationship","deaths")
+weapon_rela = weapon_rela[,c("relationship","weapon","deaths")]
+weapon_n = as.integer(factor(weapon_rela$weapon))
+relationship_n = as.integer(factor(weapon_rela$relationship))
+weapon_rela = cbind(weapon_rela,weapon_n,relationship_n)
+
+filename = paste("weapon_relationship_",i,".csv",sep="")
+write.csv(weapon_rela,filename,row.names = FALSE)
+}

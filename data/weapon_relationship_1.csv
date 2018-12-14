@@ -1,0 +1,494 @@
+"relationship","weapon","deaths","weapon_n","relationship_n"
+"Acquaintance","Asphyxiation - includes death by gas",4,1,1
+"Acquaintance","Blunt object - hammer, club, etc",2,2,1
+"Acquaintance","Drowning",0,3,1
+"Acquaintance","Explosives",0,4,1
+"Acquaintance","Fire",8,5,1
+"Acquaintance","Firearm, type not stated",76,6,1
+"Acquaintance","Handgun - pistol, revolver, etc",214,7,1
+"Acquaintance","Knife or cutting instrument",38,8,1
+"Acquaintance","Narcotics or drugs, sleeping pills",3,9,1
+"Acquaintance","Other gun",4,10,1
+"Acquaintance","Other or type unknown",20,11,1
+"Acquaintance","Personal weapons, includes beating",7,12,1
+"Acquaintance","Poison - does not include gas",0,13,1
+"Acquaintance","Pushed or thrown out window",0,14,1
+"Acquaintance","Rifle",11,15,1
+"Acquaintance","Shotgun",10,16,1
+"Acquaintance","Strangulation - hanging",0,17,1
+"Boyfriend","Asphyxiation - includes death by gas",0,1,2
+"Boyfriend","Blunt object - hammer, club, etc",0,2,2
+"Boyfriend","Drowning",0,3,2
+"Boyfriend","Explosives",0,4,2
+"Boyfriend","Fire",0,5,2
+"Boyfriend","Firearm, type not stated",1,6,2
+"Boyfriend","Handgun - pistol, revolver, etc",4,7,2
+"Boyfriend","Knife or cutting instrument",2,8,2
+"Boyfriend","Narcotics or drugs, sleeping pills",0,9,2
+"Boyfriend","Other gun",0,10,2
+"Boyfriend","Other or type unknown",0,11,2
+"Boyfriend","Personal weapons, includes beating",0,12,2
+"Boyfriend","Poison - does not include gas",0,13,2
+"Boyfriend","Pushed or thrown out window",0,14,2
+"Boyfriend","Rifle",0,15,2
+"Boyfriend","Shotgun",0,16,2
+"Boyfriend","Strangulation - hanging",0,17,2
+"Brother","Asphyxiation - includes death by gas",0,1,3
+"Brother","Blunt object - hammer, club, etc",2,2,3
+"Brother","Drowning",0,3,3
+"Brother","Explosives",0,4,3
+"Brother","Fire",0,5,3
+"Brother","Firearm, type not stated",1,6,3
+"Brother","Handgun - pistol, revolver, etc",9,7,3
+"Brother","Knife or cutting instrument",4,8,3
+"Brother","Narcotics or drugs, sleeping pills",0,9,3
+"Brother","Other gun",0,10,3
+"Brother","Other or type unknown",0,11,3
+"Brother","Personal weapons, includes beating",0,12,3
+"Brother","Poison - does not include gas",0,13,3
+"Brother","Pushed or thrown out window",0,14,3
+"Brother","Rifle",0,15,3
+"Brother","Shotgun",2,16,3
+"Brother","Strangulation - hanging",0,17,3
+"Common-law husband","Asphyxiation - includes death by gas",0,1,4
+"Common-law husband","Blunt object - hammer, club, etc",0,2,4
+"Common-law husband","Drowning",0,3,4
+"Common-law husband","Explosives",0,4,4
+"Common-law husband","Fire",0,5,4
+"Common-law husband","Firearm, type not stated",0,6,4
+"Common-law husband","Handgun - pistol, revolver, etc",0,7,4
+"Common-law husband","Knife or cutting instrument",0,8,4
+"Common-law husband","Narcotics or drugs, sleeping pills",0,9,4
+"Common-law husband","Other gun",0,10,4
+"Common-law husband","Other or type unknown",0,11,4
+"Common-law husband","Personal weapons, includes beating",0,12,4
+"Common-law husband","Poison - does not include gas",0,13,4
+"Common-law husband","Pushed or thrown out window",0,14,4
+"Common-law husband","Rifle",0,15,4
+"Common-law husband","Shotgun",0,16,4
+"Common-law husband","Strangulation - hanging",0,17,4
+"Common-law wife","Asphyxiation - includes death by gas",0,1,5
+"Common-law wife","Blunt object - hammer, club, etc",0,2,5
+"Common-law wife","Drowning",0,3,5
+"Common-law wife","Explosives",0,4,5
+"Common-law wife","Fire",0,5,5
+"Common-law wife","Firearm, type not stated",0,6,5
+"Common-law wife","Handgun - pistol, revolver, etc",1,7,5
+"Common-law wife","Knife or cutting instrument",0,8,5
+"Common-law wife","Narcotics or drugs, sleeping pills",0,9,5
+"Common-law wife","Other gun",0,10,5
+"Common-law wife","Other or type unknown",0,11,5
+"Common-law wife","Personal weapons, includes beating",0,12,5
+"Common-law wife","Poison - does not include gas",0,13,5
+"Common-law wife","Pushed or thrown out window",0,14,5
+"Common-law wife","Rifle",0,15,5
+"Common-law wife","Shotgun",0,16,5
+"Common-law wife","Strangulation - hanging",0,17,5
+"Daughter","Asphyxiation - includes death by gas",2,1,6
+"Daughter","Blunt object - hammer, club, etc",4,2,6
+"Daughter","Drowning",1,3,6
+"Daughter","Explosives",1,4,6
+"Daughter","Fire",0,5,6
+"Daughter","Firearm, type not stated",14,6,6
+"Daughter","Handgun - pistol, revolver, etc",16,7,6
+"Daughter","Knife or cutting instrument",4,8,6
+"Daughter","Narcotics or drugs, sleeping pills",3,9,6
+"Daughter","Other gun",2,10,6
+"Daughter","Other or type unknown",26,11,6
+"Daughter","Personal weapons, includes beating",29,12,6
+"Daughter","Poison - does not include gas",2,13,6
+"Daughter","Pushed or thrown out window",0,14,6
+"Daughter","Rifle",1,15,6
+"Daughter","Shotgun",2,16,6
+"Daughter","Strangulation - hanging",3,17,6
+"Employee","Asphyxiation - includes death by gas",0,1,7
+"Employee","Blunt object - hammer, club, etc",0,2,7
+"Employee","Drowning",0,3,7
+"Employee","Explosives",0,4,7
+"Employee","Fire",0,5,7
+"Employee","Firearm, type not stated",0,6,7
+"Employee","Handgun - pistol, revolver, etc",0,7,7
+"Employee","Knife or cutting instrument",0,8,7
+"Employee","Narcotics or drugs, sleeping pills",0,9,7
+"Employee","Other gun",0,10,7
+"Employee","Other or type unknown",1,11,7
+"Employee","Personal weapons, includes beating",0,12,7
+"Employee","Poison - does not include gas",0,13,7
+"Employee","Pushed or thrown out window",0,14,7
+"Employee","Rifle",0,15,7
+"Employee","Shotgun",0,16,7
+"Employee","Strangulation - hanging",0,17,7
+"Employer","Asphyxiation - includes death by gas",0,1,8
+"Employer","Blunt object - hammer, club, etc",0,2,8
+"Employer","Drowning",0,3,8
+"Employer","Explosives",0,4,8
+"Employer","Fire",0,5,8
+"Employer","Firearm, type not stated",0,6,8
+"Employer","Handgun - pistol, revolver, etc",0,7,8
+"Employer","Knife or cutting instrument",0,8,8
+"Employer","Narcotics or drugs, sleeping pills",0,9,8
+"Employer","Other gun",0,10,8
+"Employer","Other or type unknown",0,11,8
+"Employer","Personal weapons, includes beating",0,12,8
+"Employer","Poison - does not include gas",0,13,8
+"Employer","Pushed or thrown out window",0,14,8
+"Employer","Rifle",0,15,8
+"Employer","Shotgun",0,16,8
+"Employer","Strangulation - hanging",0,17,8
+"Ex-husband","Asphyxiation - includes death by gas",0,1,9
+"Ex-husband","Blunt object - hammer, club, etc",0,2,9
+"Ex-husband","Drowning",0,3,9
+"Ex-husband","Explosives",0,4,9
+"Ex-husband","Fire",0,5,9
+"Ex-husband","Firearm, type not stated",0,6,9
+"Ex-husband","Handgun - pistol, revolver, etc",0,7,9
+"Ex-husband","Knife or cutting instrument",0,8,9
+"Ex-husband","Narcotics or drugs, sleeping pills",0,9,9
+"Ex-husband","Other gun",0,10,9
+"Ex-husband","Other or type unknown",0,11,9
+"Ex-husband","Personal weapons, includes beating",0,12,9
+"Ex-husband","Poison - does not include gas",0,13,9
+"Ex-husband","Pushed or thrown out window",0,14,9
+"Ex-husband","Rifle",0,15,9
+"Ex-husband","Shotgun",0,16,9
+"Ex-husband","Strangulation - hanging",0,17,9
+"Ex-wife","Asphyxiation - includes death by gas",0,1,10
+"Ex-wife","Blunt object - hammer, club, etc",0,2,10
+"Ex-wife","Drowning",0,3,10
+"Ex-wife","Explosives",0,4,10
+"Ex-wife","Fire",0,5,10
+"Ex-wife","Firearm, type not stated",0,6,10
+"Ex-wife","Handgun - pistol, revolver, etc",1,7,10
+"Ex-wife","Knife or cutting instrument",0,8,10
+"Ex-wife","Narcotics or drugs, sleeping pills",0,9,10
+"Ex-wife","Other gun",0,10,10
+"Ex-wife","Other or type unknown",0,11,10
+"Ex-wife","Personal weapons, includes beating",0,12,10
+"Ex-wife","Poison - does not include gas",0,13,10
+"Ex-wife","Pushed or thrown out window",0,14,10
+"Ex-wife","Rifle",1,15,10
+"Ex-wife","Shotgun",0,16,10
+"Ex-wife","Strangulation - hanging",0,17,10
+"Father","Asphyxiation - includes death by gas",0,1,11
+"Father","Blunt object - hammer, club, etc",0,2,11
+"Father","Drowning",0,3,11
+"Father","Explosives",0,4,11
+"Father","Fire",0,5,11
+"Father","Firearm, type not stated",0,6,11
+"Father","Handgun - pistol, revolver, etc",1,7,11
+"Father","Knife or cutting instrument",0,8,11
+"Father","Narcotics or drugs, sleeping pills",0,9,11
+"Father","Other gun",0,10,11
+"Father","Other or type unknown",1,11,11
+"Father","Personal weapons, includes beating",0,12,11
+"Father","Poison - does not include gas",0,13,11
+"Father","Pushed or thrown out window",0,14,11
+"Father","Rifle",0,15,11
+"Father","Shotgun",0,16,11
+"Father","Strangulation - hanging",0,17,11
+"Friend","Asphyxiation - includes death by gas",0,1,12
+"Friend","Blunt object - hammer, club, etc",0,2,12
+"Friend","Drowning",0,3,12
+"Friend","Explosives",0,4,12
+"Friend","Fire",0,5,12
+"Friend","Firearm, type not stated",13,6,12
+"Friend","Handgun - pistol, revolver, etc",62,7,12
+"Friend","Knife or cutting instrument",15,8,12
+"Friend","Narcotics or drugs, sleeping pills",3,9,12
+"Friend","Other gun",0,10,12
+"Friend","Other or type unknown",9,11,12
+"Friend","Personal weapons, includes beating",2,12,12
+"Friend","Poison - does not include gas",0,13,12
+"Friend","Pushed or thrown out window",0,14,12
+"Friend","Rifle",2,15,12
+"Friend","Shotgun",10,16,12
+"Friend","Strangulation - hanging",1,17,12
+"Girlfriend","Asphyxiation - includes death by gas",1,1,13
+"Girlfriend","Blunt object - hammer, club, etc",1,2,13
+"Girlfriend","Drowning",0,3,13
+"Girlfriend","Explosives",0,4,13
+"Girlfriend","Fire",1,5,13
+"Girlfriend","Firearm, type not stated",3,6,13
+"Girlfriend","Handgun - pistol, revolver, etc",27,7,13
+"Girlfriend","Knife or cutting instrument",4,8,13
+"Girlfriend","Narcotics or drugs, sleeping pills",0,9,13
+"Girlfriend","Other gun",1,10,13
+"Girlfriend","Other or type unknown",3,11,13
+"Girlfriend","Personal weapons, includes beating",2,12,13
+"Girlfriend","Poison - does not include gas",0,13,13
+"Girlfriend","Pushed or thrown out window",0,14,13
+"Girlfriend","Rifle",0,15,13
+"Girlfriend","Shotgun",1,16,13
+"Girlfriend","Strangulation - hanging",1,17,13
+"Homosexual relationship","Asphyxiation - includes death by gas",0,1,14
+"Homosexual relationship","Blunt object - hammer, club, etc",0,2,14
+"Homosexual relationship","Drowning",0,3,14
+"Homosexual relationship","Explosives",0,4,14
+"Homosexual relationship","Fire",0,5,14
+"Homosexual relationship","Firearm, type not stated",0,6,14
+"Homosexual relationship","Handgun - pistol, revolver, etc",1,7,14
+"Homosexual relationship","Knife or cutting instrument",0,8,14
+"Homosexual relationship","Narcotics or drugs, sleeping pills",0,9,14
+"Homosexual relationship","Other gun",0,10,14
+"Homosexual relationship","Other or type unknown",0,11,14
+"Homosexual relationship","Personal weapons, includes beating",0,12,14
+"Homosexual relationship","Poison - does not include gas",0,13,14
+"Homosexual relationship","Pushed or thrown out window",0,14,14
+"Homosexual relationship","Rifle",0,15,14
+"Homosexual relationship","Shotgun",0,16,14
+"Homosexual relationship","Strangulation - hanging",0,17,14
+"Husband","Asphyxiation - includes death by gas",0,1,15
+"Husband","Blunt object - hammer, club, etc",0,2,15
+"Husband","Drowning",0,3,15
+"Husband","Explosives",0,4,15
+"Husband","Fire",2,5,15
+"Husband","Firearm, type not stated",0,6,15
+"Husband","Handgun - pistol, revolver, etc",0,7,15
+"Husband","Knife or cutting instrument",0,8,15
+"Husband","Narcotics or drugs, sleeping pills",0,9,15
+"Husband","Other gun",0,10,15
+"Husband","Other or type unknown",0,11,15
+"Husband","Personal weapons, includes beating",0,12,15
+"Husband","Poison - does not include gas",0,13,15
+"Husband","Pushed or thrown out window",0,14,15
+"Husband","Rifle",0,15,15
+"Husband","Shotgun",0,16,15
+"Husband","Strangulation - hanging",0,17,15
+"In-law","Asphyxiation - includes death by gas",0,1,16
+"In-law","Blunt object - hammer, club, etc",0,2,16
+"In-law","Drowning",0,3,16
+"In-law","Explosives",0,4,16
+"In-law","Fire",0,5,16
+"In-law","Firearm, type not stated",0,6,16
+"In-law","Handgun - pistol, revolver, etc",0,7,16
+"In-law","Knife or cutting instrument",0,8,16
+"In-law","Narcotics or drugs, sleeping pills",0,9,16
+"In-law","Other gun",0,10,16
+"In-law","Other or type unknown",0,11,16
+"In-law","Personal weapons, includes beating",0,12,16
+"In-law","Poison - does not include gas",0,13,16
+"In-law","Pushed or thrown out window",0,14,16
+"In-law","Rifle",0,15,16
+"In-law","Shotgun",0,16,16
+"In-law","Strangulation - hanging",0,17,16
+"Mother","Asphyxiation - includes death by gas",0,1,17
+"Mother","Blunt object - hammer, club, etc",0,2,17
+"Mother","Drowning",0,3,17
+"Mother","Explosives",0,4,17
+"Mother","Fire",0,5,17
+"Mother","Firearm, type not stated",0,6,17
+"Mother","Handgun - pistol, revolver, etc",2,7,17
+"Mother","Knife or cutting instrument",0,8,17
+"Mother","Narcotics or drugs, sleeping pills",0,9,17
+"Mother","Other gun",0,10,17
+"Mother","Other or type unknown",0,11,17
+"Mother","Personal weapons, includes beating",0,12,17
+"Mother","Poison - does not include gas",0,13,17
+"Mother","Pushed or thrown out window",0,14,17
+"Mother","Rifle",0,15,17
+"Mother","Shotgun",1,16,17
+"Mother","Strangulation - hanging",0,17,17
+"Neighbor","Asphyxiation - includes death by gas",0,1,18
+"Neighbor","Blunt object - hammer, club, etc",0,2,18
+"Neighbor","Drowning",0,3,18
+"Neighbor","Explosives",0,4,18
+"Neighbor","Fire",0,5,18
+"Neighbor","Firearm, type not stated",0,6,18
+"Neighbor","Handgun - pistol, revolver, etc",6,7,18
+"Neighbor","Knife or cutting instrument",1,8,18
+"Neighbor","Narcotics or drugs, sleeping pills",0,9,18
+"Neighbor","Other gun",0,10,18
+"Neighbor","Other or type unknown",0,11,18
+"Neighbor","Personal weapons, includes beating",0,12,18
+"Neighbor","Poison - does not include gas",0,13,18
+"Neighbor","Pushed or thrown out window",0,14,18
+"Neighbor","Rifle",0,15,18
+"Neighbor","Shotgun",0,16,18
+"Neighbor","Strangulation - hanging",0,17,18
+"Other family","Asphyxiation - includes death by gas",3,1,19
+"Other family","Blunt object - hammer, club, etc",0,2,19
+"Other family","Drowning",0,3,19
+"Other family","Explosives",0,4,19
+"Other family","Fire",0,5,19
+"Other family","Firearm, type not stated",3,6,19
+"Other family","Handgun - pistol, revolver, etc",11,7,19
+"Other family","Knife or cutting instrument",7,8,19
+"Other family","Narcotics or drugs, sleeping pills",0,9,19
+"Other family","Other gun",1,10,19
+"Other family","Other or type unknown",6,11,19
+"Other family","Personal weapons, includes beating",9,12,19
+"Other family","Poison - does not include gas",0,13,19
+"Other family","Pushed or thrown out window",0,14,19
+"Other family","Rifle",0,15,19
+"Other family","Shotgun",1,16,19
+"Other family","Strangulation - hanging",0,17,19
+"Other - known to victim","Asphyxiation - includes death by gas",3,1,20
+"Other - known to victim","Blunt object - hammer, club, etc",6,2,20
+"Other - known to victim","Drowning",0,3,20
+"Other - known to victim","Explosives",0,4,20
+"Other - known to victim","Fire",1,5,20
+"Other - known to victim","Firearm, type not stated",27,6,20
+"Other - known to victim","Handgun - pistol, revolver, etc",67,7,20
+"Other - known to victim","Knife or cutting instrument",5,8,20
+"Other - known to victim","Narcotics or drugs, sleeping pills",1,9,20
+"Other - known to victim","Other gun",2,10,20
+"Other - known to victim","Other or type unknown",22,11,20
+"Other - known to victim","Personal weapons, includes beating",37,12,20
+"Other - known to victim","Poison - does not include gas",1,13,20
+"Other - known to victim","Pushed or thrown out window",1,14,20
+"Other - known to victim","Rifle",2,15,20
+"Other - known to victim","Shotgun",2,16,20
+"Other - known to victim","Strangulation - hanging",1,17,20
+"Relationship not determined","Asphyxiation - includes death by gas",2,1,21
+"Relationship not determined","Blunt object - hammer, club, etc",10,2,21
+"Relationship not determined","Drowning",0,3,21
+"Relationship not determined","Explosives",0,4,21
+"Relationship not determined","Fire",10,5,21
+"Relationship not determined","Firearm, type not stated",381,6,21
+"Relationship not determined","Handgun - pistol, revolver, etc",752,7,21
+"Relationship not determined","Knife or cutting instrument",52,8,21
+"Relationship not determined","Narcotics or drugs, sleeping pills",1,9,21
+"Relationship not determined","Other gun",28,10,21
+"Relationship not determined","Other or type unknown",72,11,21
+"Relationship not determined","Personal weapons, includes beating",19,12,21
+"Relationship not determined","Poison - does not include gas",0,13,21
+"Relationship not determined","Pushed or thrown out window",0,14,21
+"Relationship not determined","Rifle",30,15,21
+"Relationship not determined","Shotgun",12,16,21
+"Relationship not determined","Strangulation - hanging",2,17,21
+"Sister","Asphyxiation - includes death by gas",1,1,22
+"Sister","Blunt object - hammer, club, etc",0,2,22
+"Sister","Drowning",0,3,22
+"Sister","Explosives",0,4,22
+"Sister","Fire",0,5,22
+"Sister","Firearm, type not stated",2,6,22
+"Sister","Handgun - pistol, revolver, etc",2,7,22
+"Sister","Knife or cutting instrument",1,8,22
+"Sister","Narcotics or drugs, sleeping pills",0,9,22
+"Sister","Other gun",0,10,22
+"Sister","Other or type unknown",0,11,22
+"Sister","Personal weapons, includes beating",1,12,22
+"Sister","Poison - does not include gas",0,13,22
+"Sister","Pushed or thrown out window",0,14,22
+"Sister","Rifle",1,15,22
+"Sister","Shotgun",2,16,22
+"Sister","Strangulation - hanging",0,17,22
+"Son","Asphyxiation - includes death by gas",4,1,23
+"Son","Blunt object - hammer, club, etc",15,2,23
+"Son","Drowning",5,3,23
+"Son","Explosives",0,4,23
+"Son","Fire",4,5,23
+"Son","Firearm, type not stated",7,6,23
+"Son","Handgun - pistol, revolver, etc",25,7,23
+"Son","Knife or cutting instrument",6,8,23
+"Son","Narcotics or drugs, sleeping pills",5,9,23
+"Son","Other gun",0,10,23
+"Son","Other or type unknown",16,11,23
+"Son","Personal weapons, includes beating",32,12,23
+"Son","Poison - does not include gas",0,13,23
+"Son","Pushed or thrown out window",0,14,23
+"Son","Rifle",6,15,23
+"Son","Shotgun",1,16,23
+"Son","Strangulation - hanging",4,17,23
+"Stepdaughter","Asphyxiation - includes death by gas",0,1,24
+"Stepdaughter","Blunt object - hammer, club, etc",0,2,24
+"Stepdaughter","Drowning",0,3,24
+"Stepdaughter","Explosives",0,4,24
+"Stepdaughter","Fire",0,5,24
+"Stepdaughter","Firearm, type not stated",0,6,24
+"Stepdaughter","Handgun - pistol, revolver, etc",2,7,24
+"Stepdaughter","Knife or cutting instrument",1,8,24
+"Stepdaughter","Narcotics or drugs, sleeping pills",0,9,24
+"Stepdaughter","Other gun",0,10,24
+"Stepdaughter","Other or type unknown",0,11,24
+"Stepdaughter","Personal weapons, includes beating",4,12,24
+"Stepdaughter","Poison - does not include gas",0,13,24
+"Stepdaughter","Pushed or thrown out window",0,14,24
+"Stepdaughter","Rifle",0,15,24
+"Stepdaughter","Shotgun",0,16,24
+"Stepdaughter","Strangulation - hanging",2,17,24
+"Stepfather","Asphyxiation - includes death by gas",0,1,25
+"Stepfather","Blunt object - hammer, club, etc",0,2,25
+"Stepfather","Drowning",0,3,25
+"Stepfather","Explosives",0,4,25
+"Stepfather","Fire",0,5,25
+"Stepfather","Firearm, type not stated",0,6,25
+"Stepfather","Handgun - pistol, revolver, etc",2,7,25
+"Stepfather","Knife or cutting instrument",0,8,25
+"Stepfather","Narcotics or drugs, sleeping pills",0,9,25
+"Stepfather","Other gun",0,10,25
+"Stepfather","Other or type unknown",0,11,25
+"Stepfather","Personal weapons, includes beating",0,12,25
+"Stepfather","Poison - does not include gas",0,13,25
+"Stepfather","Pushed or thrown out window",0,14,25
+"Stepfather","Rifle",0,15,25
+"Stepfather","Shotgun",0,16,25
+"Stepfather","Strangulation - hanging",0,17,25
+"Stepmother","Asphyxiation - includes death by gas",0,1,26
+"Stepmother","Blunt object - hammer, club, etc",0,2,26
+"Stepmother","Drowning",0,3,26
+"Stepmother","Explosives",0,4,26
+"Stepmother","Fire",0,5,26
+"Stepmother","Firearm, type not stated",0,6,26
+"Stepmother","Handgun - pistol, revolver, etc",0,7,26
+"Stepmother","Knife or cutting instrument",0,8,26
+"Stepmother","Narcotics or drugs, sleeping pills",0,9,26
+"Stepmother","Other gun",0,10,26
+"Stepmother","Other or type unknown",0,11,26
+"Stepmother","Personal weapons, includes beating",0,12,26
+"Stepmother","Poison - does not include gas",0,13,26
+"Stepmother","Pushed or thrown out window",0,14,26
+"Stepmother","Rifle",0,15,26
+"Stepmother","Shotgun",0,16,26
+"Stepmother","Strangulation - hanging",0,17,26
+"Stepson","Asphyxiation - includes death by gas",0,1,27
+"Stepson","Blunt object - hammer, club, etc",2,2,27
+"Stepson","Drowning",0,3,27
+"Stepson","Explosives",0,4,27
+"Stepson","Fire",0,5,27
+"Stepson","Firearm, type not stated",0,6,27
+"Stepson","Handgun - pistol, revolver, etc",0,7,27
+"Stepson","Knife or cutting instrument",0,8,27
+"Stepson","Narcotics or drugs, sleeping pills",0,9,27
+"Stepson","Other gun",0,10,27
+"Stepson","Other or type unknown",3,11,27
+"Stepson","Personal weapons, includes beating",5,12,27
+"Stepson","Poison - does not include gas",0,13,27
+"Stepson","Pushed or thrown out window",0,14,27
+"Stepson","Rifle",0,15,27
+"Stepson","Shotgun",0,16,27
+"Stepson","Strangulation - hanging",0,17,27
+"Stranger","Asphyxiation - includes death by gas",1,1,28
+"Stranger","Blunt object - hammer, club, etc",4,2,28
+"Stranger","Drowning",0,3,28
+"Stranger","Explosives",0,4,28
+"Stranger","Fire",0,5,28
+"Stranger","Firearm, type not stated",59,6,28
+"Stranger","Handgun - pistol, revolver, etc",171,7,28
+"Stranger","Knife or cutting instrument",7,8,28
+"Stranger","Narcotics or drugs, sleeping pills",0,9,28
+"Stranger","Other gun",4,10,28
+"Stranger","Other or type unknown",13,11,28
+"Stranger","Personal weapons, includes beating",2,12,28
+"Stranger","Poison - does not include gas",0,13,28
+"Stranger","Pushed or thrown out window",0,14,28
+"Stranger","Rifle",13,15,28
+"Stranger","Shotgun",4,16,28
+"Stranger","Strangulation - hanging",1,17,28
+"Wife","Asphyxiation - includes death by gas",0,1,29
+"Wife","Blunt object - hammer, club, etc",0,2,29
+"Wife","Drowning",0,3,29
+"Wife","Explosives",0,4,29
+"Wife","Fire",0,5,29
+"Wife","Firearm, type not stated",4,6,29
+"Wife","Handgun - pistol, revolver, etc",8,7,29
+"Wife","Knife or cutting instrument",2,8,29
+"Wife","Narcotics or drugs, sleeping pills",0,9,29
+"Wife","Other gun",0,10,29
+"Wife","Other or type unknown",0,11,29
+"Wife","Personal weapons, includes beating",0,12,29
+"Wife","Poison - does not include gas",0,13,29
+"Wife","Pushed or thrown out window",0,14,29
+"Wife","Rifle",0,15,29
+"Wife","Shotgun",2,16,29
+"Wife","Strangulation - hanging",1,17,29

@@ -553,7 +553,7 @@
  		  					"Ex-husband","Ex-wife","Father","Friend","Girlfriend","Homosexual relationship", "Husband","In-law",
  		  					"Mother","Neighbor","Not determined","Other family","Other - known to victim", "Sister","Son","Stepdaughter",
  		  					"Stepfather","Stepmother","Stepson","Stranger","Wife"],
- 		  datasets = ['./data/weapon_relationship.csv'];           
+ 		  datasets = ['./data/weapon_relationship_1.csv','./data/weapon_relationship_2.csv','./data/weapon_relationship_3.csv','./data/weapon_relationship_4.csv','./data/weapon_relationship_5.csv','./data/weapon_relationship_6.csv'];           
  		  
  		  var svg = d3.select("#vis-container").append("svg")
           .attr("width", width + margin.left + margin.right)
@@ -637,6 +637,20 @@
         });  
       };
       heatmapChart(datasets[0]);
+
+		datanames = ["Victims 0-20 years old","Victims 20-25 years old","Victims 25-30 years old","Victims 30-40 years old","Victims 40-50 years old","Victims 50-100 years old"]	
+		
+		var datasetpicker = d3.select("#vis-container").selectAll(".dataset-button")
+        .data(datasets);
+
+      datasetpicker.enter()
+        .append("input")
+        .attr("value", function(d,i){ return datanames[i] })
+        .attr("type", "button")
+        .attr("class", "dataset-button")
+        .on("click", function(d) {
+          heatmapChart(d);
+        });
 		
 		}
 		////////////////
