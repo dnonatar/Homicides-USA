@@ -1,4 +1,3 @@
-setwd('/home/ratanond/Desktop/IUPUI/INFO-H517/Project2/Main/data')
 
 library(reshape)
 
